@@ -1,8 +1,8 @@
 # GPT3 Website
 
 #### Live Project🎉
-- [**GitHub** -https://github.com/syedshams111111/gpt-3 
-- [**Vercel** - https://gpt-3-rosy-ten.vercel.app
+- [**GitHub** -https://github.com/syedshams111111/gpt-3 ]
+- [**Vercel** - https://gpt-3-rosy-ten.vercel.app]
 
 ## Usage
 
